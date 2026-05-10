@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hey, I'm Neha Kapil 👋
 
-<!--
-**Kapilneha/kapilneha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate  
+💻 Exploring AI, GenAI & Tech  
+🚀 Curious builder who likes turning ideas into projects  
+🌱 Currently learning: LLMs, AI Tools, NLP, and modern web technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+
+- 🤖 Interested in Generative AI, Machine Learning & intelligent systems
+- 💡 Love learning new technologies and building practical projects
+- 🎯 Goal: To grow as a developer while creating impactful tech
+- ☕ Powered by curiosity and late-night debugging sessions
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- Java
+- SQL
+- HTML/CSS
+
+### Technologies & Tools
+- Git & GitHub
+- MySQL
+- AI/ML Basics
+- Generative AI Tools
+- VS Code
+
+---
+
+## 📌 Currently Exploring
+
+- Large Language Models (LLMs)
+- Prompt Engineering
+- NLP Concepts
+- AI Agents
+- Computer Vision Basics
+
+---
+
+## 📊 GitHub Stats
+
+![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/neha-kapil-b16401307/?skipRedirect=true
+- 📫 Email: nehakapil456@gmaol.com
+
+---
+
+> “Still learning. Still building. Still curious.” 🌙
