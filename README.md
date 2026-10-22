@@ -34,12 +34,11 @@
 ---
 
 ## 📌 Currently Exploring
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- NLP Concepts
 - AI Agents
-- Computer Vision Basics
+- DSA
+- PostgresSQL
+- Networking
+- DBMS
 
 ---
 
